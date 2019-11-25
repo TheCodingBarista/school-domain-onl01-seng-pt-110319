@@ -1,6 +1,6 @@
 class School
   
-  attr_accessor :roster, :name, :grade
+  attr_accessor :roster
   attr_reader :school
 
 
