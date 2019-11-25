@@ -11,8 +11,8 @@ class School
   
   def add_student(student, grade)
   
-   roster[:student] = []
-   roster["student"] << "grade"  
+   roster[:new_student] = []
+   roster[:student] << "grade"  
    
    roster => {"student"=>["grade"]}
    
