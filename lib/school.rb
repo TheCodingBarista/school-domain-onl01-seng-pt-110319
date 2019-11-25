@@ -15,6 +15,7 @@ class School
   end
 
   def grade(grade)
+    return grade
   end
   
   def sort
