@@ -13,6 +13,4 @@ class School
   
    roster[:grade] = []
    roster[:grade] << "student"  
-   
-   roster
   end
