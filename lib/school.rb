@@ -10,7 +10,9 @@ class School
   end
   
   def add_student(student, grade)
-    roster.each do |student|
+    self.roster
+   
+    #roster.each do |student|
       
    #roster[:student] = []
    #roster[:student] << "grade"  
