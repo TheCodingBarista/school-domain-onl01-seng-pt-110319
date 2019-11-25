@@ -15,5 +15,4 @@ class School
    roster[:new_student] << "grade"  
    
    roster
-   
-end
+  end
