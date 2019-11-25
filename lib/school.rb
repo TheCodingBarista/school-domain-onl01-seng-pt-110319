@@ -15,7 +15,6 @@ class School
   end
 
   def grade(grade)
-    return student
   end
 
 
