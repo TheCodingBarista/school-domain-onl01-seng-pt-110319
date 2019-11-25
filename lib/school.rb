@@ -14,6 +14,6 @@ class School
    roster["student"] = []
    roster["student"] << "grade"  
    
-   roster => {:student=>["grade"]}
+   roster => {"student"=>["grade"]}
    
 end
