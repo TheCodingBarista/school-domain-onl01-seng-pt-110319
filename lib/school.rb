@@ -14,8 +14,8 @@ class School
    
     #roster.each do |student|
       
-   roster[:student] = []
-   roster[:student] << "grade"  
+   roster["student"] = []
+   roster["student"] << grade  
    
    
   end
